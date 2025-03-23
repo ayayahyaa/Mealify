@@ -1,3 +1,3 @@
 # Mealify
 
-Live Demo Link : https://lnkd.in/dQgF6fcZ
+Live Demo: https://lnkd.in/dQgF6fcZ
